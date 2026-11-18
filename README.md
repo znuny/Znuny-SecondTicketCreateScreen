@@ -15,7 +15,7 @@ Provides a second phone and email ticket creation screen, each with their own Sy
 
 **Prerequisites**
 
-- Znuny 7.3
+- Znuny 7.5
 
 **Installation**
 
